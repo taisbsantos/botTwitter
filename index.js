@@ -38,6 +38,6 @@ function BotInit() {
     }
 
 }
-setInterval(BotInit, 30*60*1000);
+setInterval(BotInit, 10);
 /* Inicia o Bot */
 BotInit();
